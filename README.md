@@ -1,0 +1,1 @@
+V1的代码主要参考了大佬的开源项目[TinyWebServer](https://github.com/qinguoyi/TinyWebServer?tab=readme-ov-file), 目的是通过这个项目学习 webserver 的搭建，在实践中学习linux 的高并发网络服务器编程。
